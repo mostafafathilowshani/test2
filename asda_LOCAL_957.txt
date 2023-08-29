@@ -1,3 +1,2 @@
 after stash 2.
-after tag v1.0
 
